@@ -1,4 +1,4 @@
-[![men.jpg](https://i.postimg.cc/FKkbSyxh/men.jpg)](https://postimg.cc/CZYfTft2)
+[center]![men.jpg](https://i.postimg.cc/FKkbSyxh/men.jpg)](https://postimg.cc/CZYfTft2)[/center]
 
   <p align="center">A kickstart template for building a <a href="http://nodejs.org" target="_blank">Node.js</a> backend api with <a href="https://expressjs.com/" target="_blank">Express.js</a> and <a href="https://www.mongodb.com/" target="_blank">MongoDB</a></p>
 
