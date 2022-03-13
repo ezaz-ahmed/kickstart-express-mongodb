@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a kickstart template. Main goal of this template is to start a backend server with [mongoose](https://github.com/Automattic/mongoose) & [express.js](https://github.com/expressjs/express) without spending too much time on server.
+This is a kickstart template. Main goal of this template is to start a backend server with [mongoose](https://mongoosejs.com/) & [express.js](https://expressjs.com/) without spending too much time on server.
 
 ## Installation
 
